@@ -1,11 +1,10 @@
-# Chester-solidity-
+# solidity 
  
+  Solidity is a purposefully slimmed down, loosely-typed language with a syntax very similar to JavaScript. Solidity-coded smart contracts can be easily executed in the Ethereum Virtual Machine or the EVM.   
+ 
+#Description 
   
- This Solidity program is a simple contract program that demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how it works. 
-  
- ## Description 
-  
- This program is a ETH contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a function that returns myToken. This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future. 
+ Ethereum is a decentralized blockchain platform that establishes a peer-to-peer network that securely executes and verifies application code, called smart contracts. Smart contracts allow participants to transact with each other without a trusted central authority.  
   
  ## Getting Started 
   
@@ -45,7 +44,7 @@ uint public  TotalSupply = 0;
   
  To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "myToken.sol" button. 
   
- Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "myToken" contract from the dropdown menu, and then click on the "Deploy" button. 
+ Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Mytoken" contract from the dropdown menu, and then click on the "Deploy" button. 
   
  Once the contract is deployed, you can interact function. 
   
