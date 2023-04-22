@@ -1,8 +1,10 @@
 # Smart Contract 
+
   On blockchain, the goal of a smart contract is to simplify business and trade between both anonymous and identified parties, sometimes without the need for a middleman. A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility.
  
   
  ## Description 
+
   Smart contracts are code written into a blockchain that executes the terms of an agreement or contract from outside the chain. It automates the actions that would otherwise be completed by the parties in the agreement, which removes the need for both parties to trust each other.
  An in-depth paragraph about your project and overview of use. 
   
